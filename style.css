@@ -3,4 +3,6 @@
     float: left;
     clear: both;
     padding: 10px;
+
+    max-width: 200px;
 }
