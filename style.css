@@ -2,7 +2,8 @@
 {
     float: left;
     clear: both;
-    padding: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
 
     max-width: 200px;
 }
